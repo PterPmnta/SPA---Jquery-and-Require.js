@@ -1,5 +1,7 @@
 /* global require, template */
 
+//JqueryAAMD
+
 require.config({
     baseUrl: 'js',
     
